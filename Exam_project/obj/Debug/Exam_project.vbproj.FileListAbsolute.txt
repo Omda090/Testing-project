@@ -1,0 +1,28 @@
+D:\C# projects\Visual Basic projects\Exam_project\Exam_project\bin\Debug\Exam_project.exe.config
+D:\C# projects\Visual Basic projects\Exam_project\Exam_project\bin\Debug\Exam_project.exe
+D:\C# projects\Visual Basic projects\Exam_project\Exam_project\bin\Debug\Exam_project.pdb
+D:\C# projects\Visual Basic projects\Exam_project\Exam_project\bin\Debug\Exam_project.xml
+D:\C# projects\Visual Basic projects\Exam_project\Exam_project\obj\Debug\Exam_project.Form1.resources
+D:\C# projects\Visual Basic projects\Exam_project\Exam_project\obj\Debug\Exam_project.Resources.resources
+D:\C# projects\Visual Basic projects\Exam_project\Exam_project\obj\Debug\Exam_project.Q1.resources
+D:\C# projects\Visual Basic projects\Exam_project\Exam_project\obj\Debug\Exam_project.vbproj.GenerateResource.Cache
+D:\C# projects\Visual Basic projects\Exam_project\Exam_project\obj\Debug\Exam_project.exe
+D:\C# projects\Visual Basic projects\Exam_project\Exam_project\obj\Debug\Exam_project.xml
+D:\C# projects\Visual Basic projects\Exam_project\Exam_project\obj\Debug\Exam_project.pdb
+D:\C# projects\Visual Basic projects\Exam_project\Exam_project\obj\Debug\Exam_project.Q2.resources
+D:\C# projects\Visual Basic projects\Exam_project\Exam_project\obj\Debug\Exam_project.Q3.resources
+D:\C# projects\Visual Basic projects\Exam_project\Exam_project\obj\Debug\Exam_project.Result.resources
+D:\C# projects\C# Advance_projects\Exam_project\Exam_project\bin\Debug\Exam_project.exe.config
+D:\C# projects\C# Advance_projects\Exam_project\Exam_project\obj\Debug\Exam_project.exe
+D:\C# projects\C# Advance_projects\Exam_project\Exam_project\obj\Debug\Exam_project.xml
+D:\C# projects\C# Advance_projects\Exam_project\Exam_project\obj\Debug\Exam_project.pdb
+D:\C# projects\C# Advance_projects\Exam_project\Exam_project\bin\Debug\Exam_project.exe
+D:\C# projects\C# Advance_projects\Exam_project\Exam_project\bin\Debug\Exam_project.pdb
+D:\C# projects\C# Advance_projects\Exam_project\Exam_project\bin\Debug\Exam_project.xml
+D:\C# projects\C# Advance_projects\Exam_project\Exam_project\obj\Debug\Exam_project.Form1.resources
+D:\C# projects\C# Advance_projects\Exam_project\Exam_project\obj\Debug\Exam_project.Resources.resources
+D:\C# projects\C# Advance_projects\Exam_project\Exam_project\obj\Debug\Exam_project.Q1.resources
+D:\C# projects\C# Advance_projects\Exam_project\Exam_project\obj\Debug\Exam_project.Q2.resources
+D:\C# projects\C# Advance_projects\Exam_project\Exam_project\obj\Debug\Exam_project.Q3.resources
+D:\C# projects\C# Advance_projects\Exam_project\Exam_project\obj\Debug\Exam_project.Result.resources
+D:\C# projects\C# Advance_projects\Exam_project\Exam_project\obj\Debug\Exam_project.vbproj.GenerateResource.Cache
